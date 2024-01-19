@@ -1,0 +1,45 @@
+.page{
+    font-family: 'Inter', sans-serif; 
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 64px;
+    letter-spacing: 0em;
+    text-align: left;
+}
+
+.page__header{
+    font-size: 50px;
+    width: 670px;
+    height: 64px;
+    margin-top: 96px;
+    margin-bottom:96px;
+    margin-left: 160px;
+}
+
+.page__canvas{
+    height: 1036px;
+    top: 237px;
+    background: #F9FAFC;
+}
+.page__footer h2{
+    width: 111px;
+    height: 48px;
+    margin-top:60px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom:35px;
+    font-size: 38px;
+    font-weight: 500;
+    line-height: 48px;
+    text-align: left;
+    
+}
+
+.page__footer p{
+    width: 640px;
+    height: 96px;
+    margin-left: auto;
+    margin-right: auto;
+    line-height: 24px;
+    text-align: center;
+}
